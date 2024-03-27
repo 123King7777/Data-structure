@@ -1,0 +1,13 @@
+﻿  Deque.c
+F:\VSC++\算法\单调队列\单调队列\Deque.c(3,39): warning C4028: 形参 2 与声明不同
+F:\VSC++\算法\单调队列\单调队列\Deque.c(4,1): warning C4029: 声明的形参表不同于定义
+F:\VSC++\算法\单调队列\单调队列\Deque.c(26,32): warning C4028: 形参 2 与声明不同
+F:\VSC++\算法\单调队列\单调队列\Deque.c(27,1): warning C4029: 声明的形参表不同于定义
+  test.c
+  正在生成代码...
+test.obj : error LNK2005: DequeInit 已经在 Deque.obj 中定义
+test.obj : error LNK2005: Dequepop 已经在 Deque.obj 中定义
+test.obj : error LNK2005: Dequepush 已经在 Deque.obj 中定义
+test.obj : error LNK2005: getmax 已经在 Deque.obj 中定义
+test.obj : error LNK2005: getmin 已经在 Deque.obj 中定义
+F:\VSC++\算法\单调队列\x64\Debug\单调队列.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
